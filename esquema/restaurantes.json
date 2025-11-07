@@ -1,0 +1,7 @@
+{
+    "restaurantes": [
+        {"id": 1, "nome": "Burger Town", "aberto": true, "tempo_medio": 25},
+        {"id": 2, "nome": "Pizza Boa", "aberto": false, "tempo_medio": 40},
+        {"id": 3, "nome": "Sushi Now", "aberto": true, "tempo_medio": 30}
+    ]
+}
