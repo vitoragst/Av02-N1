@@ -27,7 +27,6 @@ def gateway_api(evento):
     else:
         return {"erro": "Rota não encontrada"}
 
-# Teste local
 if __name__ == "__main__":
     pedido = {
         "rota": "/novo-pedido",
